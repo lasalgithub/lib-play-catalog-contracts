@@ -1,0 +1,1 @@
+# lib-play-catalog-contracts
